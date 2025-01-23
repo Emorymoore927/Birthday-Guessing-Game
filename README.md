@@ -1,2 +1,2 @@
 # Birthday-Guessing-Game
-Predicts the user's birthday based on their input
+When the user checks their birthdate in the table of values, they enter '1'; if it’s not there, they enter '0.' Based on their input, the program will maintain a running tally. If the user enters '1,' the program adds the value from the top-left corner of the table, continuing through all the cards. If the user enters '0,' the program adds '0' instead. The final sum will reveal the user's birthdate
